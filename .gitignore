@@ -1,0 +1,129 @@
+# gradle
+
+.gradle/
+build/
+out/
+classes/
+
+# eclipse
+
+*.launch
+
+# idea
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# vscode
+
+.settings/
+.vscode/
+bin/
+.classpath
+.project
+
+# macos
+
+*.DS_Store
+
+# fabric
+
+run/
+
+# secrets & credentials
+
+# dotenv / environment files
+.env
+.env.*
+*.env
+!.env.example
+!.env.sample
+
+# api keys & tokens
+*.apikey
+*_apikey
+*.apitoken
+*_apitoken
+*.accesstoken
+*_accesstoken
+*.secret
+*_secret
+*.private
+*_private
+master.key
+
+# certificates & keys
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.truststore
+*.crt
+*.cer
+*.der
+
+# oauth & service accounts
+*.oauth
+*_oauth
+service-account.json
+*-service-account.json
+google-services.json
+GoogleService-Info.plist
+
+# secrets directories
+secrets/
+.secrets/
+*secret*/
+secure/
+.secure/
+
+# config files with secrets
+secrets.properties
+secret.properties
+credentials.json
+credentials.yml
+credentials.yaml
+application-secret.properties
+application-secret.yml
+application-secret.yaml
+config/secrets/
+config/credentials.*
+
+# cloud & ci secrets
+.cloudtoken
+*.cloudtoken
+.aws/
+.azure/
+.gcloud/
+gcp-key.json
+*gcp-key*.json
+
+# ssh keys
+id_rsa
+id_rsa.*
+id_ed25519
+id_ed25519.*
+id_ecdsa
+id_ecdsa.*
+id_dsa
+id_dsa.*
+*.ppk
+
+# backups of sensitive files
+*.env.bak
+*.env.backup
+*_secret.bak
+*credentials.bak
+*.pem.bak
+*.key.bak
+
+# java
+
+hs_err_*.log
+replay_*.log
+*.hprof
+*.jfr
