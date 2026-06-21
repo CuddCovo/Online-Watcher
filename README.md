@@ -2,6 +2,9 @@
 
 A lightweight Minecraft Fabric client-side mod that monitors specific players' online status on multiplayer servers, with customizable HUD display.
 
+- [GitHub](https://github.com/CuddCovo/Online-Watcher)
+- [Modrinth](https://modrinth.com/mod/online-watcher)
+
 ## Features
 
 - **Player Monitoring**: Add player names to a watchlist and get notified when they're online
@@ -45,6 +48,9 @@ This project is licensed under the [Creative Commons Attribution-NoDerivatives 4
 ## 中文说明
 
 **Online Watcher** 是一款轻量级 Minecraft Fabric 客户端模组，用于监控多人服务器中指定玩家的在线状态，支持自定义 HUD 显示效果。
+
+- **GitHub**: <https://github.com/CuddCovo/Online-Watcher>
+- **Modrinth**: <https://modrinth.com/mod/online-watcher>
 
 ### 功能
 
